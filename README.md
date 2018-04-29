@@ -6,4 +6,4 @@ examined (Numpy görselleştir 2 boyutluyu mesala kafada daha iyi oturur) : http
 
 cvs (data) : https://github.com/Shubham-pandey/Udemy_Python-Pandas/tree/master/Course%20Files/CSV
 
-you a look everyone : https://www.python-course.eu/
+you look at everything : https://www.python-course.eu/
